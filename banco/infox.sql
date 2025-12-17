@@ -1,7 +1,7 @@
 /**
  * Sistema para gestão de Serviços
  *
- * @author Professor José de Assis
+ * @Gabriel de Avila Miranda
  * @version 1.1
  */
  
